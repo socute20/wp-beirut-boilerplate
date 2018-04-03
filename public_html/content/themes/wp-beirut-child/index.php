@@ -79,7 +79,20 @@
 								Mansouriyeh
 							</div>
 						</div>
-
+						<div class="row">
+							<div class="cell" data-title="Full Name">
+								Tamara Kazim Ali
+							</div>
+							<div class="cell" data-title="Age">
+								30
+							</div>
+							<div class="cell" data-title="Job Title">
+								Web Developer
+							</div>
+							<div class="cell" data-title="Location">
+								Bshemoun
+							</div>
+						</div>
 
 					</div>
 			</div>
